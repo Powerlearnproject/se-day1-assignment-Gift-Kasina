@@ -3,6 +3,7 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
+wd
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
